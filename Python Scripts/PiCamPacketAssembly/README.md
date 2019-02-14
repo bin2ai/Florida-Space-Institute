@@ -1,6 +1,6 @@
-#QPACE - PiCam Packet Assembly Python Script
+# QPACE - PiCam Packet Assembly Python Script
 
-##Usage
+## Usage
 This python script expects a file that contains complete and sequential video parition packets per line. The script then assembles them into a '.h624' file.
 
 **AGAIN, this script expects one packet (128-bytes) per line and that each packet is a videoPacket**
