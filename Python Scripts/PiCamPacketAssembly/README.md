@@ -11,7 +11,7 @@ Example 1:  command `py QPACE-PiCamPacketAssembly testVideo.packet` creates  a f
 Example 2:  command `py QPACE-PiCamPacketAssembly testVideo.packet outputVideo.h624` creates a file called `outputVideo.h624`
 
 ----
-## Files
+### Files
 This README.md will be located in a folder  that should contain the necessary python script and test files.
 
 <br> python script: *QPACE-PiCamPacketAssembly.py* </br>
@@ -19,5 +19,5 @@ This README.md will be located in a folder  that should contain the necessary py
 <br> output file: *testVideo.h624* </br>
 
 ----
-# Useful Links
+### Links
 Download and install [VLC](https://www.videolan.org/vlc/index.html) to play the .h624 video.
