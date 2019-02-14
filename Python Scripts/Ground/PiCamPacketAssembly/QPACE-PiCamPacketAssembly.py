@@ -12,8 +12,8 @@ stopIndex = 124 #124. skip crc checksum bytes
 if len(sys.argv) <2:
 	print("ERROR:      add input file.")
 	print("Optional:   add second argument for different outputfile name")
-	print("Example 1:  command 'py QPACE-PiCamPacketAssembly test.packet'\toutputs -> 'test.h624'")
-	print("Example 2:  command 'py QPACE-PiCamPacketAssembly test.packet \toutput.h624' outputs -> 'output.h624'")
+	print("Example 1:  command 'py QPACE-PiCamPacketAssembly test.packet'\toutputs -> 'test.h264'")
+	print("Example 2:  command 'py QPACE-PiCamPacketAssembly test.packet \toutput.h264' outputs -> 'output.h264'")
 	exit()
 
 print("Log: Attempting to open '{}'." .format(sys.argv[1]))
@@ -29,7 +29,7 @@ else:
 	#name output video file to 'inputFileName'.h624 but without the original extension
 	inputFileName = sys.argv[1]
 	extensionIndex = inputFileName.index('.')
-	videoFileName = inputFileName[0:extensionIndex] +".h624"
+	videoFileName = inputFileName[0:extensionIndex] +".h264"
 fo = open(videoFileName, "w")
 
 # print info to user 
