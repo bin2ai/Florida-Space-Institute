@@ -7,8 +7,8 @@ This python script expects a file that contains complete and sequential video pa
 
 `[1 bytes - designator][9 bytes - opcode][114 bytes - video partitions][4 bytes - Checksum]`
 
-Example 1:  command `py QPACE-PiCamPacketAssembly testVideo.packet` creates  a file called `testVideo.h624`
-Example 2:  command `py QPACE-PiCamPacketAssembly testVideo.packet outputVideo.h624` creates a file called `outputVideo.h624`
+<br> Example 1:  command `py QPACE-PiCamPacketAssembly testVideo.packet` creates  a file called `testVideo.h624` </br>
+<br> Example 2:  command `py QPACE-PiCamPacketAssembly testVideo.packet outputVideo.h624` creates a file called `outputVideo.h624` </br>
 
 ----
 ### Files
