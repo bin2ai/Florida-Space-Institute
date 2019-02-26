@@ -1,0 +1,588 @@
+Info: Reading netlist file "C:\Users\chase\Documents\MGRC\QPACE\CCRD\CCDR_6-26-17\CCDR.net".
+
+Info: Using references to match components and footprints.
+
+Error: No footprint defined for component 'P3'.
+
+Error: No footprint defined for component 'C4'.
+
+Error: No footprint defined for component 'R33'.
+
+Error: No footprint defined for component 'R32'.
+
+Error: No footprint defined for component 'R31'.
+
+Error: No footprint defined for component 'R30'.
+
+Error: No footprint defined for component 'R29'.
+
+Error: No footprint defined for component 'R28'.
+
+Error: No footprint defined for component 'R27'.
+
+Error: No footprint defined for component 'R26'.
+
+Error: No footprint defined for component 'P4'.
+
+Error: No footprint defined for component 'C3'.
+
+Error: No footprint defined for component 'C1'.
+
+Error: No footprint defined for component 'C2'.
+
+Error: No footprint defined for component 'Q2'.
+
+Info: Checking netlist component footprint "C1:/590AA23C:".
+
+Changing component "C1:" value from ".1 uF" to "C".
+
+Info: Changing component path "C1:" to "/590AA23C".
+
+Changing component "C1:/590AA23C" pin "1" net name from "Vcc_Pi1" to "MUX_Vcc_Pi1".
+
+Info: Checking netlist component footprint "C2:/590AA6BD:".
+
+Changing component "C2:" value from ".1 uF" to "C".
+
+Info: Changing component path "C2:" to "/590AA6BD".
+
+Changing component "C2:/590AA6BD" pin "1" net name from "Vcc_Pi1" to "MUX_Vcc_Pi1".
+
+Info: Checking netlist component footprint "C3:/590A9A15:".
+
+Changing component "C3:" value from ".1 uF" to "C".
+
+Info: Changing component path "C3:" to "/590A9A15".
+
+Info: Checking netlist component footprint "C4:/5953CE76/59540650:".
+
+Error: Cannot add new component "C4:/5953CE76/59540650" due to missing footprint "".
+
+Info: Checking netlist component footprint "D1:/5907B7C1:QPACE:SchottkyDiode-PMEG4020EP".
+
+Changing component "D1:/5907B7C1" pin "2" net name from "Vcc_Pi1" to "MUX_Vcc_Pi1".
+
+Info: Checking netlist component footprint "D2:/5907B6D4:QPACE:SchottkyDiode-PMEG4020EP".
+
+Changing component "D2:/5907B6D4" pin "2" net name from "Vcc_Pi2" to "MUX_Vcc_Pi2".
+
+Info: Checking netlist component footprint "D6:/58FFA3B8/590010CD:QPACE:SC79".
+
+Info: Checking netlist component footprint "D7:/58FFA3B8/59001582:QPACE:SC79".
+
+Info: Checking netlist component footprint "D8:/58FFA3B8/59001692:QPACE:SC79".
+
+Info: Checking netlist component footprint "D9:/58FFA3B8/590014DE:QPACE:SC79".
+
+Info: Checking netlist component footprint "D10:/58FFA3B8/590015C4:QPACE:SC79".
+
+Info: Checking netlist component footprint "D11:/58FFA3B8/590016DC:QPACE:SC79".
+
+Info: Checking netlist component footprint "D12:/58FFA3B8/59001513:QPACE:SC79".
+
+Info: Checking netlist component footprint "D13:/58FFA3B8/59001607:QPACE:SC79".
+
+Info: Checking netlist component footprint "D14:/58FFA3B8/5900172F:QPACE:SC79".
+
+Info: Checking netlist component footprint "D15:/58FFA3B8/59001549:QPACE:SC79".
+
+Info: Checking netlist component footprint "D16:/58FFA3B8/59001649:QPACE:SC79".
+
+Info: Checking netlist component footprint "D17:/58FFA3B8/5900177D:QPACE:SC79".
+
+Info: Checking netlist component footprint "D18:/58FFA3B8/590017CC:QPACE:SC79".
+
+Info: Checking netlist component footprint "D19:/58FFA3B8/5900193A:QPACE:SC79".
+
+Info: Checking netlist component footprint "D20:/58FFA3B8/59001AE8:QPACE:SC79".
+
+Info: Checking netlist component footprint "D21:/58FFA3B8/59001826:QPACE:SC79".
+
+Info: Checking netlist component footprint "D22:/58FFA3B8/590019A2:QPACE:SC79".
+
+Info: Checking netlist component footprint "D23:/58FFA3B8/59001B5E:QPACE:SC79".
+
+Info: Checking netlist component footprint "D24:/58FFA3B8/5900187F:QPACE:SC79".
+
+Info: Checking netlist component footprint "D25:/58FFA3B8/59001A11:QPACE:SC79".
+
+Info: Checking netlist component footprint "D26:/58FFA3B8/59001BD1:QPACE:SC79".
+
+Info: Checking netlist component footprint "D27:/58FFA3B8/590018DD:QPACE:SC79".
+
+Info: Checking netlist component footprint "D28:/58FFA3B8/59001A7B:QPACE:SC79".
+
+Info: Checking netlist component footprint "D29:/58FFA3B8/59001C43:QPACE:SC79".
+
+Info: Checking netlist component footprint "E1:/58FFA3B8/58FFA88E:QPACE:G125-MH10605L3P".
+
+Info: Checking netlist component footprint "E2:/58FFA3B8/590021A6:QPACE:01x04-conn-sq".
+
+Info: Checking netlist component footprint "E3:/58FFA3B8/59002121:QPACE:01x04-conn-sq".
+
+Info: Checking netlist component footprint "F1:/59056C73:2_SMD_Fuse:2-SMD_Fuse".
+
+Info: Checking netlist component footprint "F2:/58F9FCF8/590576D2:2_SMD_Fuse:2-SMD_Fuse".
+
+Changing component "F2:/58F9FCF8/590576D2" pin "2" net name from "Vcc_Pi1" to "MUX_Vcc_Pi1".
+
+Info: Checking netlist component footprint "F3:/58F9FCF8/59057895:2_SMD_Fuse:2-SMD_Fuse".
+
+Info: Checking netlist component footprint "F4:/58F9FCF8/59057997:2_SMD_Fuse:2-SMD_Fuse".
+
+Changing component "F4:/58F9FCF8/59057997" pin "2" net name from "Vcc_Pi2" to "MUX_Vcc_Pi2".
+
+Info: Checking netlist component footprint "F5:/58F9FCF8/59057BAB:2_SMD_Fuse:2-SMD_Fuse".
+
+Info: Checking netlist component footprint "GS1:/5953CE76/5953E28F:GS3".
+
+Adding new component "GS1:/5953CE76/5953E28F" footprint "GS3".
+
+Changing component "GS1:/5953CE76/5953E28F" pin "1" net name from "" to "3.3V_Rail".
+
+Changing component "GS1:/5953CE76/5953E28F" pin "2" net name from "" to "/CCDR_ADC/ADR0".
+
+Changing component "GS1:/5953CE76/5953E28F" pin "3" net name from "" to "GND".
+
+Info: Checking netlist component footprint "GS2:/5953CE76/5953E91C:GS3".
+
+Adding new component "GS2:/5953CE76/5953E91C" footprint "GS3".
+
+Changing component "GS2:/5953CE76/5953E91C" pin "1" net name from "" to "3.3V_Rail".
+
+Changing component "GS2:/5953CE76/5953E91C" pin "2" net name from "" to "/CCDR_ADC/ARD2".
+
+Changing component "GS2:/5953CE76/5953E91C" pin "3" net name from "" to "GND".
+
+Info: Checking netlist component footprint "GS3:/5953CE76/5953ECA3:GS3".
+
+Adding new component "GS3:/5953CE76/5953ECA3" footprint "GS3".
+
+Changing component "GS3:/5953CE76/5953ECA3" pin "1" net name from "" to "GND".
+
+Changing component "GS3:/5953CE76/5953ECA3" pin "2" net name from "" to "/CCDR_ADC/ARD1".
+
+Changing component "GS3:/5953CE76/5953ECA3" pin "3" net name from "" to "3.3V_Rail".
+
+Info: Checking netlist component footprint "H1:/589D459D:QPACE:RPi_MountingHole_2.75mm_rev2".
+
+Info: Checking netlist component footprint "H2:/589D6137:QPACE:RPi_MountingHole_2.75mm_rev2".
+
+Info: Checking netlist component footprint "H3:/5903929C:QPACE:boardMount_0125in060".
+
+Info: Checking netlist component footprint "H4:/589D5ED3:QPACE:RPi_MountingHole_2.75mm_rev2".
+
+Info: Checking netlist component footprint "H5:/589D63A8:QPACE:RPi_MountingHole_2.75mm_rev2".
+
+Info: Checking netlist component footprint "J1:/59083ACD/590AB423:QPACE:01x06_Pi_Jumpers".
+
+Info: Checking netlist component footprint "J2:/59098DBF:QPACE:02x04_CONN".
+
+Info: Checking netlist component footprint "M1:/58EEA424/58EEDC81:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M2:/58EEA424/58EEDC8E:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M3:/58EEA424/58EEDC9B:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M4:/58EEA424/58EEDCA8:QPACE:MOV_DCK_TPD4E1B06".
+
+Changing component "M4:/58EEA424/58EEDCA8" pin "1" net name from "Step_B-_Pi1_Pin35" to "NC_Pi1_Pin35".
+
+Changing component "M4:/58EEA424/58EEDCA8" pin "4" net name from "Step_A-_Pi1_Pin31" to "NC_Pi1_Pin31".
+
+Info: Checking netlist component footprint "M5:/58EEA424/58EFD372:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M6:/58EEA424/58EFD37E:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M7:/58EEA424/58EFD38B:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M8:/58EEA424/58F07480:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M9:/58EEA424/58F0748C:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M10:/58EEA424/58F07499:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M11:/58EEA424/58F074A6:QPACE:MOV_DCK_TPD4E1B06".
+
+Changing component "M11:/58EEA424/58F074A6" pin "1" net name from "Step_B-_Pi2_Pin35" to "NC_Pi2_Pin35".
+
+Changing component "M11:/58EEA424/58F074A6" pin "4" net name from "Step_A-_Pi2_Pin31" to "NC_Pi2_Pin31".
+
+Info: Checking netlist component footprint "M12:/58EEA424/58F074C5:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M13:/58EEA424/58F074D1:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M14:/58EEA424/58F074DE:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M15:/58EEA424/58EFD398:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M16:/58EEA424/58F8F716:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M17:/58EEA424/58EEA5C4:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M18:/58EEA424/58EED814:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M19:/58EEA424/58EED897:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M20:/58EEA424/58EED8A4:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M21:/58EEA424/58F0DA49:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M22:/58EEA424/58F0EEDD:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M23:/58EEA424/58F0F37A:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M24:/58EEA424/58F0F38B:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "M25:/58EEA424/58FAB4B3:QPACE:MOV_DCK_TPD4E1B06".
+
+Info: Checking netlist component footprint "P1:/59025C77:QPACE:USB_2.0_2_port_4conn".
+
+Info: Checking netlist component footprint "P2:/5902591A:QPACE:USB_2.0_2_port_4conn".
+
+Info: Checking netlist component footprint "P3:/5953CE76/59539B40:".
+
+Error: Cannot add new component "P3:/5953CE76/59539B40" due to missing footprint "".
+
+Info: Checking netlist component footprint "P4:/5953CE76/5953CF98:".
+
+Error: Cannot add new component "P4:/5953CE76/5953CF98" due to missing footprint "".
+
+Info: Checking netlist component footprint "PI1:/58EE22E8:QPACE:40_socket_966240-2000_FLIPPED".
+
+Changing component "PI1:/58EE22E8" pin "3" net name from "NC_Pi1_Pin3" to "??_I2C_SDA_Pi1_Pin3".
+
+Changing component "PI1:/58EE22E8" pin "5" net name from "NC_Pi1_Pin5" to "??_I2C_SCL_Pi1_Pin5".
+
+Changing component "PI1:/58EE22E8" pin "11" net name from "12V_ON1_Pi1_Pin11" to "NC_Pi1_Pin11".
+
+Changing component "PI1:/58EE22E8" pin "13" net name from "12V_ON2_Pi1_Pin13" to "NC_Pi1_Pin13".
+
+Changing component "PI1:/58EE22E8" pin "31" net name from "Step_A-_Pi1_Pin31" to "NC_Pi1_Pin31".
+
+Changing component "PI1:/58EE22E8" pin "33" net name from "Step_A+_Pi1_Pin33" to "Step_A_EN_Pi1_Pin33".
+
+Changing component "PI1:/58EE22E8" pin "35" net name from "Step_B-_Pi1_Pin35" to "NC_Pi1_Pin35".
+
+Changing component "PI1:/58EE22E8" pin "37" net name from "Step_B+_Pi1_Pin37" to "Step_B_EN_Pi1_Pin37".
+
+Info: Checking netlist component footprint "PI2:/58EE22AF:QPACE:40_socket_966240-2000_FLIPPED".
+
+Changing component "PI2:/58EE22AF" pin "3" net name from "NC_Pi2_Pin3" to "??_I2C_SDA_Pi2_Pin3".
+
+Changing component "PI2:/58EE22AF" pin "5" net name from "NC_Pi2_Pin5" to "??_I2C_SCL_Pi2_Pin5".
+
+Changing component "PI2:/58EE22AF" pin "11" net name from "12V_ON1_Pi2_Pin11" to "NC_Pi2_Pin11".
+
+Changing component "PI2:/58EE22AF" pin "13" net name from "12V_ON2_Pi2_Pin13" to "NC_Pi2_Pin13".
+
+Changing component "PI2:/58EE22AF" pin "31" net name from "Step_A-_Pi2_Pin31" to "NC_Pi2_Pin31".
+
+Changing component "PI2:/58EE22AF" pin "33" net name from "Step_A+_Pi2_Pin33" to "Step_A_EN_Pi2_Pin33".
+
+Changing component "PI2:/58EE22AF" pin "35" net name from "Step_B-_Pi2_Pin35" to "NC_Pi2_Pin35".
+
+Changing component "PI2:/58EE22AF" pin "37" net name from "Step_B+_Pi2_Pin37" to "Step_B_EN_Pi2_Pin37".
+
+Info: Checking netlist component footprint "Q1:/58F93BC4:QPACE:N-Fet_BSS138_SOT-23".
+
+Info: Checking netlist component footprint "Q2:/59534EE3:".
+
+Changing component "Q2:/58F948EA" value from "PFET_SOT223_NTF6P02" to "Q_PMOS_GDSD".
+
+Info: Changing component path "Q2:/58F948EA" to "/59534EE3".
+
+Changing component "Q2:/59534EE3" pin "3" net name from "5V_Rail" to "Net-(Q1-Pad3)".
+
+Changing component "Q2:/59534EE3" pin "1" net name from "Net-(Q1-Pad3)" to "5V_Rail".
+
+Info: Checking netlist component footprint "Q3:/58F9FCF8/58F935F4:QPACE:N-Fet_BSS138_SOT-23".
+
+Info: Checking netlist component footprint "Q4:/58F9FCF8/58FA075C:TO_SOT_Packages_SMD:SOT-223".
+
+Info: Checking netlist component footprint "Q5:/58F9FCF8/58F93247:QPACE:N-Fet_BSS138_SOT-23".
+
+Info: Checking netlist component footprint "Q6:/58F9FCF8/58F96775:TO_SOT_Packages_SMD:SOT-223".
+
+Info: Checking netlist component footprint "Q7:/58F9FCF8/58F92FE0:QPACE:N-Fet_BSS138_SOT-23".
+
+Info: Checking netlist component footprint "Q8:/58F9FCF8/58FA0872:TO_SOT_Packages_SMD:SOT-223".
+
+Info: Checking netlist component footprint "Q9:/58F9FCF8/58F9312C:QPACE:N-Fet_BSS138_SOT-23".
+
+Info: Checking netlist component footprint "Q10:/58F9FCF8/58F967E5:TO_SOT_Packages_SMD:SOT-223".
+
+Info: Checking netlist component footprint "Q11:/5953CE76/5953DCC4:SOT-23".
+
+Adding new component "Q11:/5953CE76/5953DCC4" footprint "SOT-23".
+
+Changing component "Q11:/5953CE76/5953DCC4" pin "1" net name from "" to "Net-(Q11-Pad1)".
+
+Changing component "Q11:/5953CE76/5953DCC4" pin "2" net name from "" to "Net-(Q11-Pad2)".
+
+Changing component "Q11:/5953CE76/5953DCC4" pin "3" net name from "" to "Net-(Q11-Pad1)".
+
+Info: Checking netlist component footprint "Q12:/5953CE76/5953DCB8:SOT-23".
+
+Adding new component "Q12:/5953CE76/5953DCB8" footprint "SOT-23".
+
+Changing component "Q12:/5953CE76/5953DCB8" pin "1" net name from "" to "Net-(Q12-Pad1)".
+
+Changing component "Q12:/5953CE76/5953DCB8" pin "2" net name from "" to "Net-(Q12-Pad2)".
+
+Changing component "Q12:/5953CE76/5953DCB8" pin "3" net name from "" to "Net-(Q12-Pad1)".
+
+Info: Checking netlist component footprint "Q13:/5953CE76/5953D8DE:SOT-23".
+
+Adding new component "Q13:/5953CE76/5953D8DE" footprint "SOT-23".
+
+Changing component "Q13:/5953CE76/5953D8DE" pin "1" net name from "" to "Net-(Q13-Pad1)".
+
+Changing component "Q13:/5953CE76/5953D8DE" pin "2" net name from "" to "Net-(Q13-Pad2)".
+
+Changing component "Q13:/5953CE76/5953D8DE" pin "3" net name from "" to "Net-(Q13-Pad1)".
+
+Info: Checking netlist component footprint "Q14:/5953CE76/5953CFC5:SOT-23".
+
+Adding new component "Q14:/5953CE76/5953CFC5" footprint "SOT-23".
+
+Changing component "Q14:/5953CE76/5953CFC5" pin "1" net name from "" to "Net-(Q14-Pad1)".
+
+Changing component "Q14:/5953CE76/5953CFC5" pin "2" net name from "" to "Net-(Q14-Pad2)".
+
+Changing component "Q14:/5953CE76/5953CFC5" pin "3" net name from "" to "Net-(Q14-Pad1)".
+
+Info: Checking netlist component footprint "Q15:/5953CE76/5953DCCA:SOT-23".
+
+Adding new component "Q15:/5953CE76/5953DCCA" footprint "SOT-23".
+
+Changing component "Q15:/5953CE76/5953DCCA" pin "1" net name from "" to "Net-(Q11-Pad2)".
+
+Changing component "Q15:/5953CE76/5953DCCA" pin "2" net name from "" to "Net-(Q11-Pad1)".
+
+Changing component "Q15:/5953CE76/5953DCCA" pin "3" net name from "" to "Net-(Q11-Pad2)".
+
+Info: Checking netlist component footprint "Q16:/5953CE76/5953DCBE:SOT-23".
+
+Adding new component "Q16:/5953CE76/5953DCBE" footprint "SOT-23".
+
+Changing component "Q16:/5953CE76/5953DCBE" pin "1" net name from "" to "Net-(Q12-Pad2)".
+
+Changing component "Q16:/5953CE76/5953DCBE" pin "2" net name from "" to "Net-(Q12-Pad1)".
+
+Changing component "Q16:/5953CE76/5953DCBE" pin "3" net name from "" to "Net-(Q12-Pad2)".
+
+Info: Checking netlist component footprint "Q17:/5953CE76/5953D8E6:SOT-23".
+
+Adding new component "Q17:/5953CE76/5953D8E6" footprint "SOT-23".
+
+Changing component "Q17:/5953CE76/5953D8E6" pin "1" net name from "" to "Net-(Q13-Pad2)".
+
+Changing component "Q17:/5953CE76/5953D8E6" pin "2" net name from "" to "Net-(Q13-Pad1)".
+
+Changing component "Q17:/5953CE76/5953D8E6" pin "3" net name from "" to "Net-(Q13-Pad2)".
+
+Info: Checking netlist component footprint "Q18:/5953CE76/5953D424:SOT-23".
+
+Adding new component "Q18:/5953CE76/5953D424" footprint "SOT-23".
+
+Changing component "Q18:/5953CE76/5953D424" pin "1" net name from "" to "Net-(Q14-Pad2)".
+
+Changing component "Q18:/5953CE76/5953D424" pin "2" net name from "" to "Net-(Q14-Pad1)".
+
+Changing component "Q18:/5953CE76/5953D424" pin "3" net name from "" to "Net-(Q14-Pad2)".
+
+Info: Checking netlist component footprint "R1:/58F00572:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R2:/58F00860:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R3:/58F8EF22:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R4:/58F8EFD9:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R5:/58F8EE75:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R6:/58F9FCF8/58FA018D:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R7:/58F9FCF8/58FA01D6:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R8:/58F9FCF8/58FA0194:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R9:/58F9FCF8/58FA01DD:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R10:/58F9FCF8/58FA0186:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R11:/58F9FCF8/58FA01CF:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R12:/58F9FCF8/58FA021F:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R13:/58F9FCF8/58FA0268:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R14:/58F9FCF8/58FA0226:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R15:/58F9FCF8/58FA026F:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R16:/58F9FCF8/58FA0218:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R17:/58F9FCF8/58FA0261:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R18:/59083ACD/590840E7:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R19:/59083ACD/59084115:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R20:/59083ACD/590840FE:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R21:/59083ACD/5908412C:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R22:/59083ACD/59084143:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R23:/5909FCAB:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R24:/59083ACD/5908415A:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R25:/590A04E3:QPACE:R_0805_HandSoldering-dot".
+
+Info: Checking netlist component footprint "R26:/5953CE76/5953D202:".
+
+Error: Cannot add new component "R26:/5953CE76/5953D202" due to missing footprint "".
+
+Info: Checking netlist component footprint "R27:/5953CE76/5953D26E:".
+
+Error: Cannot add new component "R27:/5953CE76/5953D26E" due to missing footprint "".
+
+Info: Checking netlist component footprint "R28:/5953CE76/5953D28E:".
+
+Error: Cannot add new component "R28:/5953CE76/5953D28E" due to missing footprint "".
+
+Info: Checking netlist component footprint "R29:/5953CE76/5953D2B5:".
+
+Error: Cannot add new component "R29:/5953CE76/5953D2B5" due to missing footprint "".
+
+Info: Checking netlist component footprint "R30:/5953CE76/5953D2D7:".
+
+Error: Cannot add new component "R30:/5953CE76/5953D2D7" due to missing footprint "".
+
+Info: Checking netlist component footprint "R31:/5953CE76/5953D332:".
+
+Error: Cannot add new component "R31:/5953CE76/5953D332" due to missing footprint "".
+
+Info: Checking netlist component footprint "R32:/5953CE76/5953D35E:".
+
+Error: Cannot add new component "R32:/5953CE76/5953D35E" due to missing footprint "".
+
+Info: Checking netlist component footprint "R33:/5953CE76/5953D38D:".
+
+Error: Cannot add new component "R33:/5953CE76/5953D38D" due to missing footprint "".
+
+Info: Checking netlist component footprint "S1:/590993B0:QPACE:Samtec_SSQ-120-03-G-D".
+
+Changing component "S1:/590993B0" pin "11" net name from "Net-(S1-Pad11)" to "I2C_SCL".
+
+Changing component "S1:/590993B0" pin "13" net name from "Net-(S1-Pad13)" to "I2C_SCL".
+
+Changing component "S1:/590993B0" pin "15" net name from "Net-(S1-Pad15)" to "12V_Pwr".
+
+Changing component "S1:/590993B0" pin "17" net name from "Net-(S1-Pad17)" to "12V_1_Enable".
+
+Changing component "S1:/590993B0" pin "18" net name from "Net-(S1-Pad18)" to "12V_2_Enable".
+
+Changing component "S1:/590993B0" pin "19" net name from "GND" to "Net-(S1-Pad19)".
+
+Changing component "S1:/590993B0" pin "20" net name from "GND" to "Net-(S1-Pad20)".
+
+Changing component "S1:/590993B0" pin "27" net name from "GND" to "Net-(S1-Pad27)".
+
+Changing component "S1:/590993B0" pin "28" net name from "GND" to "Net-(S1-Pad28)".
+
+Changing component "S1:/590993B0" pin "29" net name from "Net-(S1-Pad29)" to "5B_Rail_1_Enable".
+
+Changing component "S1:/590993B0" pin "30" net name from "Net-(S1-Pad30)" to "5B_Rail_2_Enable".
+
+Changing component "S1:/590993B0" pin "31" net name from "Net-(S1-Pad31)" to "BT_RAW".
+
+Changing component "S1:/590993B0" pin "32" net name from "Net-(S1-Pad32)" to "BT_RAW".
+
+Changing component "S1:/590993B0" pin "33" net name from "Net-(S1-Pad33)" to "BT_RAW".
+
+Changing component "S1:/590993B0" pin "34" net name from "Net-(S1-Pad34)" to "BT_RAW".
+
+Info: Checking netlist component footprint "S2:/58FA83EA:QPACE:Samtec_SSQ-112-03-G-D".
+
+Changing component "S2:/58FA83EA" pin "5" net name from "ON1" to "Net-(S2-Pad5)".
+
+Changing component "S2:/58FA83EA" pin "6" net name from "ON2" to "Net-(S2-Pad6)".
+
+Changing component "S2:/58FA83EA" pin "12" net name from "Step_A-" to "Net-(S2-Pad12)".
+
+Changing component "S2:/58FA83EA" pin "13" net name from "Step_A+" to "Step_A_EN".
+
+Changing component "S2:/58FA83EA" pin "14" net name from "Step_B-" to "Net-(S2-Pad14)".
+
+Changing component "S2:/58FA83EA" pin "15" net name from "Step_B+" to "Step_B_EN".
+
+Info: Checking netlist component footprint "U1:/58EE5279:QPACE:bus_switch_sn74cb3q3345_rev2".
+
+Changing component "U1:/58EE5279" pin "2" net name from "Step_A-_Pi1_Pin31" to "??_I2C_SDA_Pi1_Pin3".
+
+Changing component "U1:/58EE5279" pin "4" net name from "Step_A+_Pi1_Pin33" to "Step_A_EN_Pi1_Pin33".
+
+Changing component "U1:/58EE5279" pin "5" net name from "Step_B-_Pi1_Pin35" to "??_I2C_SCL_Pi1_Pin5".
+
+Changing component "U1:/58EE5279" pin "7" net name from "Step_B+_Pi1_Pin37" to "Step_B_EN_Pi1_Pin37".
+
+Changing component "U1:/58EE5279" pin "13" net name from "Step_B+" to "Step_B_EN".
+
+Changing component "U1:/58EE5279" pin "15" net name from "Step_B-" to "Pi_I2C_SCL".
+
+Changing component "U1:/58EE5279" pin "16" net name from "Step_A+" to "Step_A_EN".
+
+Changing component "U1:/58EE5279" pin "18" net name from "Step_A-" to "Pi_I2C_SDA".
+
+Changing component "U1:/58EE5279" pin "20" net name from "Vcc_Pi1" to "MUX_Vcc_Pi1".
+
+Info: Checking netlist component footprint "U2:/58EE5287:QPACE:bus_switch_sn74cb3q3345_rev2".
+
+Changing component "U2:/58EE5287" pin "4" net name from "12V_ON1_Pi1_Pin11" to "Net-(U2-Pad4)".
+
+Changing component "U2:/58EE5287" pin "5" net name from "12V_ON2_Pi1_Pin13" to "Net-(U2-Pad5)".
+
+Changing component "U2:/58EE5287" pin "15" net name from "ON2" to "Net-(U2-Pad15)".
+
+Changing component "U2:/58EE5287" pin "16" net name from "ON1" to "Net-(U2-Pad16)".
+
+Changing component "U2:/58EE5287" pin "20" net name from "Vcc_Pi1" to "MUX_Vcc_Pi1".
+
+Info: Checking netlist component footprint "U3:/58EE528E:QPACE:bus_switch_sn74cb3q3345_rev2".
+
+Changing component "U3:/58EE528E" pin "4" net name from "12V_ON1_Pi2_Pin11" to "Net-(U3-Pad4)".
+
+Changing component "U3:/58EE528E" pin "5" net name from "12V_ON2_Pi2_Pin13" to "Net-(U3-Pad5)".
+
+Changing component "U3:/58EE528E" pin "15" net name from "ON2" to "Net-(U3-Pad15)".
+
+Changing component "U3:/58EE528E" pin "16" net name from "ON1" to "Net-(U3-Pad16)".
+
+Changing component "U3:/58EE528E" pin "20" net name from "Vcc_Pi2" to "MUX_Vcc_Pi2".
+
+Info: Checking netlist component footprint "U4:/58EE5280:QPACE:bus_switch_sn74cb3q3345_rev2".
+
+Changing component "U4:/58EE5280" pin "2" net name from "Step_A-_Pi2_Pin31" to "??_I2C_SDA_Pi2_Pin3".
+
+Changing component "U4:/58EE5280" pin "4" net name from "Step_A+_Pi2_Pin33" to "Step_A_EN_Pi2_Pin33".
+
+Changing component "U4:/58EE5280" pin "5" net name from "Step_B-_Pi2_Pin35" to "??_I2C_SCL_Pi2_Pin5".
+
+Changing component "U4:/58EE5280" pin "7" net name from "Step_B+_Pi2_Pin37" to "Step_B_EN_Pi2_Pin37".
+
+Changing component "U4:/58EE5280" pin "13" net name from "Step_B+" to "Step_B_EN".
+
+Changing component "U4:/58EE5280" pin "15" net name from "Step_B-" to "Pi_I2C_SCL".
+
+Changing component "U4:/58EE5280" pin "16" net name from "Step_A+" to "Step_A_EN".
+
+Changing component "U4:/58EE5280" pin "18" net name from "Step_A-" to "Pi_I2C_SDA".
+
+Changing component "U4:/58EE5280" pin "20" net name from "Vcc_Pi2" to "MUX_Vcc_Pi2".
+
+Info: Checking netlist component footprint "U5:/5907A082:QPACE:USB_MUX-TS3USB30E-DGS".
+

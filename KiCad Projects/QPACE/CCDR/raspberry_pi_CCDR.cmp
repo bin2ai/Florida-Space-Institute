@@ -1,0 +1,939 @@
+Cmp-Mod V01 Created by PcbNew   date = 7/19/2017 2:19:00 PM
+
+BeginCmp
+TimeStamp = 59569AD1
+Path = /590AA6BD
+Reference = C4;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026CD3
+Path = /58F9FCF8/58FA0261
+Reference = R17;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026CC2
+Path = /58F9FCF8/58FA0218
+Reference = R16;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026CB1
+Path = /58F9FCF8/58FA026F
+Reference = R15;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026CA0
+Path = /58F9FCF8/58FA0226
+Reference = R14;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026C8F
+Path = /58F9FCF8/58FA0268
+Reference = R13;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026C7E
+Path = /58F9FCF8/58FA021F
+Reference = R12;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026C6D
+Path = /58F9FCF8/58FA01CF
+Reference = R11;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026C5C
+Path = /58F9FCF8/58FA0186
+Reference = R10;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026C4B
+Path = /58F9FCF8/58FA01DD
+Reference = R9;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026C3A
+Path = /58F9FCF8/58FA0194
+Reference = R8;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026C29
+Path = /58F9FCF8/58FA01D6
+Reference = R7;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026C18
+Path = /58F9FCF8/58FA018D
+Reference = R6;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026C07
+Path = /58F8EE75
+Reference = R5;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026BF6
+Path = /58F8EFD9
+Reference = R4;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026BE5
+Path = /58F8EF22
+Reference = R3;
+ValeurCmp = R;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026BD4
+Path = /58F00860
+Reference = R2;
+ValeurCmp = Res_OE_Pull_Up;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026BC3
+Path = /58F00572
+Reference = R1;
+ValeurCmp = Res_OE_Pull_Up;
+IdModule  = QPACE:R_0805_HandSoldering-dot;
+EndCmp
+
+BeginCmp
+TimeStamp = 59025911
+Path = /58FFA3B8/59002121
+Reference = E3;
+ValeurCmp = Ethernet Pi 1;
+IdModule  = QPACE:01x04-conn-sq;
+EndCmp
+
+BeginCmp
+TimeStamp = 59025903
+Path = /58FFA3B8/590021A6
+Reference = E2;
+ValeurCmp = Ethernet Pi 2;
+IdModule  = QPACE:01x04-conn-sq;
+EndCmp
+
+BeginCmp
+TimeStamp = 5953F577
+Path = /59083ACD/5958C27A
+Reference = P15;
+ValeurCmp = JUMPER;
+IdModule  = QPACE:PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 5953F570
+Path = /59083ACD/5958C1E5
+Reference = 3;
+ValeurCmp = JUMPER;
+IdModule  = QPACE:PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 5953F569
+Path = /59083ACD/59585DB4
+Reference = P13;
+ValeurCmp = JUMPER;
+IdModule  = QPACE:PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 5953F562
+Path = /59083ACD/59585D5B
+Reference = P12;
+ValeurCmp = JUMPER;
+IdModule  = QPACE:PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = 59569D5C
+Path = /58FFA3B8/590021A6
+Reference = E2;
+ValeurCmp = Ethernet Pi 2;
+IdModule  = JacobsProject:02x02_0.1-spacing;
+EndCmp
+
+BeginCmp
+TimeStamp = 59569B77
+Path = /58FFA3B8/590021A6
+Reference = E2;
+ValeurCmp = Ethernet Pi 2;
+IdModule  = JacobsProject:02x02_0.1-spacing;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F84D22
+Path = /58F9FCF8/58F93247
+Reference = Q5;
+ValeurCmp = BSS138;
+IdModule  = QPACE:N-Fet_BSS138_SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F83259
+Path = /58F9FCF8/58F9312C
+Reference = Q9;
+ValeurCmp = BSS138;
+IdModule  = QPACE:N-Fet_BSS138_SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F54BE6
+Path = /58F93BC4
+Reference = Q1;
+ValeurCmp = BSS138;
+IdModule  = QPACE:N-Fet_BSS138_SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F54C10
+Path = /58F9FCF8/58F935F4
+Reference = Q3;
+ValeurCmp = BSS138;
+IdModule  = QPACE:N-Fet_BSS138_SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F6B7C9
+Path = /58F9FCF8/58F92FE0
+Reference = Q7;
+ValeurCmp = BSS138;
+IdModule  = QPACE:N-Fet_BSS138_SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 59549F2E
+Path = /595576B3/59558306
+Reference = P7002;
+ValeurCmp = USB_R1;
+IdModule  = QPACE:USB_2.0_2_port_4conn;
+EndCmp
+
+BeginCmp
+TimeStamp = 59549F22
+Path = /595576B3/595582FF
+Reference = P7001;
+ValeurCmp = USB_R2;
+IdModule  = QPACE:USB_2.0_2_port_4conn;
+EndCmp
+
+BeginCmp
+TimeStamp = 5960588C
+Path = /590AA6BD
+Reference = C6;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 596057B7
+Path = /590AA6BD
+Reference = C5;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59569B08
+Path = /590AA6BD
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 590A81E9
+Path = /590AA6BD
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 590A81D7
+Path = /590AA23C
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5953A7E5
+Path = /590A9A15
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59557D17
+Path = /5953CE76/59540650
+Reference = C4;
+ValeurCmp = 0.01uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 596799CF
+Path = /58FFA3B8/590021A6
+Reference = E1;
+ValeurCmp = Ethernet Pi 2;
+IdModule  = QPACE:01x04_0.1-spacing;
+EndCmp
+
+BeginCmp
+TimeStamp = 5967C420
+Path = 
+Reference = J1;
+ValeurCmp = Board Mount;
+IdModule  = QPACE:boardMount_0125in060;
+EndCmp
+
+BeginCmp
+TimeStamp = 5953E633
+Path = /5953CE76/5953CF98
+Reference = U6;
+ValeurCmp = LTC_2991;
+IdModule  = QPACE:MSOP_16;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FA405E
+Path = /58EEA424/58F0748C
+Reference = M9;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F937BA
+Path = /58EEA424/58EEDC81
+Reference = M1;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F937C3
+Path = /58EEA424/58EEDC8E
+Reference = M2;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F937CC
+Path = /58EEA424/58EEDC9B
+Reference = M3;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F937D5
+Path = /58EEA424/58EEDCA8
+Reference = M4;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F937DE
+Path = /58EEA424/58EFD372
+Reference = M5;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F937E7
+Path = /58EEA424/58EFD37E
+Reference = M6;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F937F9
+Path = /58EEA424/58F07480
+Reference = M8;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F9380B
+Path = /58EEA424/58F07499
+Reference = M10;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F93814
+Path = /58EEA424/58F074A6
+Reference = M11;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F9381D
+Path = /58EEA424/58F074C5
+Reference = M12;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F93841
+Path = /58EEA424/58EEA5C4
+Reference = M17;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F9385C
+Path = /58EEA424/58EED8A4
+Reference = M20;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F9386E
+Path = /58EEA424/58F0F38B
+Reference = M24;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F93877
+Path = /58EEA424/58F0DA49
+Reference = M21;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F93880
+Path = /58EEA424/58F0EEDD
+Reference = M22;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 59039F79
+Path = /58EEA424/58EFD398
+Reference = M15;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 59039F8E
+Path = /58EEA424/58F8F716
+Reference = M16;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 5903BA29
+Path = /58EEA424/58EED814
+Reference = M18;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F93853
+Path = /58EEA424/58EED897
+Reference = M19;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F93826
+Path = /58EEA424/58F074D1
+Reference = M13;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 595D75E0
+Path = /58EEA424/58EEA5C4
+Reference = M7;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 595D784C
+Path = /58EEA424/58EEA5C4
+Reference = M14;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 5963E3D6
+Path = /58EEA424/58F8F716
+Reference = M25;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 5963E400
+Path = /58EEA424/58F8F716
+Reference = M26;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 596CC642
+Path = /58EEA424/58F074C5
+Reference = M12;
+ValeurCmp = MOV_SOT6;
+IdModule  = QPACE:MOV_DCK_TPD4E1B06;
+EndCmp
+
+BeginCmp
+TimeStamp = 59056767
+Path = /58F9FCF8/59057997
+Reference = F4;
+ValeurCmp = FUSE;
+IdModule  = QPACE:2-SMD_Fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = 59056749
+Path = /59056C73
+Reference = F1;
+ValeurCmp = FUSE;
+IdModule  = QPACE:2-SMD_Fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = 59056753
+Path = /58F9FCF8/590576D2
+Reference = F2;
+ValeurCmp = FUSE;
+IdModule  = QPACE:2-SMD_Fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = 5905675D
+Path = /58F9FCF8/59057895
+Reference = F3;
+ValeurCmp = FUSE;
+IdModule  = QPACE:2-SMD_Fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = 59056771
+Path = /58F9FCF8/59057BAB
+Reference = F5;
+ValeurCmp = FUSE;
+IdModule  = QPACE:2-SMD_Fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = 5907BF19
+Path = /5907B7C1
+Reference = D1;
+ValeurCmp = D_Schottky_ALT;
+IdModule  = QPACE:SOD-128;
+EndCmp
+
+BeginCmp
+TimeStamp = 5907BF1F
+Path = /5907B6D4
+Reference = D2;
+ValeurCmp = D_Schottky_ALT;
+IdModule  = QPACE:SOD-128;
+EndCmp
+
+BeginCmp
+TimeStamp = 5908E6EA
+Path = /590993B0
+Reference = S1;
+ValeurCmp = WTC_RF_SIGNALS;
+IdModule  = QPACE:Samtec_SSQ-120-03-G-D_QPACE_40-Pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 59557D44
+Path = /5953CE76/5953ECA3
+Reference = ADR1;
+ValeurCmp = GS3;
+IdModule  = QPACE:SolderBridge_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59557D35
+Path = /5953CE76/5953E91C
+Reference = ADR2;
+ValeurCmp = GS3;
+IdModule  = QPACE:SolderBridge_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59557D26
+Path = /5953CE76/5953E28F
+Reference = ARD0;
+ValeurCmp = GS3;
+IdModule  = QPACE:SolderBridge_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5907BFCA
+Path = /5907A082
+Reference = U5;
+ValeurCmp = USB_MUX;
+IdModule  = QPACE:USB_MUX-TS3USB30E-DGS;
+EndCmp
+
+BeginCmp
+TimeStamp = 59557C8A
+Path = /595576B3/5955832D
+Reference = PI7001;
+ValeurCmp = RaspberryPi_Stack;
+IdModule  = QPACE:2x40_socket_966240-2000_FLIPPED;
+EndCmp
+
+BeginCmp
+TimeStamp = 596047DF
+Path = 
+Reference = U6;
+ValeurCmp = LGA-12_2x2mm_Pitch0.5mm;
+IdModule  = QPACE:LGA-12_2x2mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FA8030
+Path = /58FA83EA
+Reference = S2;
+ValeurCmp = Exp_Ctrl_Rails_SIGNALS;
+IdModule  = QPACE:Samtec_SSQ-112-03-G-D;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F83E44
+Path = /58F9FCF8/58F96775
+Reference = Q6;
+ValeurCmp = PFET_SOT223_NTF6P02;
+IdModule  = QPACE:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F6B7DE
+Path = /58F9FCF8/58FA0872
+Reference = Q8;
+ValeurCmp = PFET_SOT223_NTF6P02;
+IdModule  = QPACE:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F8326F
+Path = /58F9FCF8/58F967E5
+Reference = Q10;
+ValeurCmp = PFET_SOT223_NTF6P02;
+IdModule  = QPACE:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F83E2F
+Path = /58F9FCF8/58FA075C
+Reference = Q4;
+ValeurCmp = PFET_SOT223_NTF6P02;
+IdModule  = QPACE:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 5953A81A
+Path = /59534EE3
+Reference = Q2;
+ValeurCmp = Q_PMOS_GDSD;
+IdModule  = QPACE:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026BB3
+Path = /58FFA3B8/590015C4
+Reference = D10;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026BA4
+Path = /58FFA3B8/59001582
+Reference = D7;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA1B3
+Path = /58FFA3B8/590010CD
+Reference = D6;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA1C7
+Path = /58FFA3B8/59001692
+Reference = D8;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA1D1
+Path = /58FFA3B8/590014DE
+Reference = D9;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA1E5
+Path = /58FFA3B8/590016DC
+Reference = D11;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA1EF
+Path = /58FFA3B8/59001513
+Reference = D12;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA203
+Path = /58FFA3B8/5900172F
+Reference = D14;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA221
+Path = /58FFA3B8/5900177D
+Reference = D17;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA22B
+Path = /58FFA3B8/590017CC
+Reference = D18;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA235
+Path = /58FFA3B8/5900193A
+Reference = D19;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA23F
+Path = /58FFA3B8/59001AE8
+Reference = D20;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA249
+Path = /58FFA3B8/59001826
+Reference = D21;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA253
+Path = /58FFA3B8/590019A2
+Reference = D22;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA25D
+Path = /58FFA3B8/59001B5E
+Reference = D23;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA267
+Path = /58FFA3B8/5900187F
+Reference = D24;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA271
+Path = /58FFA3B8/59001A11
+Reference = D25;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA27B
+Path = /58FFA3B8/59001BD1
+Reference = D26;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA285
+Path = /58FFA3B8/590018DD
+Reference = D27;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA28F
+Path = /58FFA3B8/59001A7B
+Reference = D28;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA299
+Path = /58FFA3B8/59001C43
+Reference = D29;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA217
+Path = /58FFA3B8/59001649
+Reference = D16;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 59026BC2
+Path = /58FFA3B8/59001607
+Reference = D13;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FFA20D
+Path = /58FFA3B8/59001549
+Reference = D15;
+ValeurCmp = D;
+IdModule  = QPACE:SC79;
+EndCmp
+
+BeginCmp
+TimeStamp = 5907BF8F
+Path = /58EE528E
+Reference = U3;
+ValeurCmp = SN74CB3Q3345;
+IdModule  = QPACE:bus_switch_sn74cb3q3345_rev2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5907BFA6
+Path = /58EE5280
+Reference = U4;
+ValeurCmp = SN74CB3Q3345;
+IdModule  = QPACE:bus_switch_sn74cb3q3345_rev2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5907BF78
+Path = /58EE5287
+Reference = U2;
+ValeurCmp = SN74CB3Q3345;
+IdModule  = QPACE:bus_switch_sn74cb3q3345_rev2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5907BF61
+Path = /58EE5279
+Reference = U1;
+ValeurCmp = SN74CB3Q3345;
+IdModule  = QPACE:bus_switch_sn74cb3q3345_rev2;
+EndCmp
+
+EndListe
