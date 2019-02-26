@@ -8,12 +8,12 @@ This project requires KiCad Version 5.0 and after to use.
 
 ## Documents Folder
 The documents folder contains;
-  * [the bill of materials (BOM)](/documents/BOM/)
-  * [all of the components datasheets](/documents/datasheets/)
-  * [gerber files](/documents/Gerbers/)
-  * [pictures](/documents/pictures/)
-  * [previous revisions](documents/Revisions/)
-  * [pdf of both the schematic and pcb layout](/documents/schematic_n_PCBlayout/)
+  * [the bill of materials (BOM)](/KiCad%20Projects/PRIME-D/documents/BOM/)
+  * [all of the components datasheets](/KiCad%20Projects/PRIME-D/documents/datasheets/)
+  * [gerber files](/KiCad%20Projects/PRIME-D/documents/Gerbers/)
+  * [pictures](/KiCad%20Projects/PRIME-D/documents/pictures/)
+  * [previous revisions](/KiCad%20Projects/PRIME-D/documents/Revisions/)
+  * [pdf of both the schematic and pcb layout](/KiCad%20Projects/PRIME-D/documents/schematic_n_PCBlayout/)
 
 ## Coming Soon
 Again please note that this Prime-D circuit board should be treated as an Arduino Uno shield.  The software to program the arduino will be added to this repo soon.
