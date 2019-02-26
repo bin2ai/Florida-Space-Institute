@@ -1,0 +1,44 @@
+Title,PRIME D
+Revision,
+Date,2019-02-13
+Generated,2/18/2019 8:06:50 PM
+Company,CMR
+Comment 1,This schematic was created after prototype board was created. 
+Comment 2,This is only the KiCad author's interpretation of the electrical design of Prime-D. 
+Comment 3,Author - Theodore Cox
+Comment 4,Date - 2/13/19
+Total Parts,33
+Total Unique Parts,23
+
+
+
+Ref,Qty,Value,Footprint,Datasheet,
+C1 C2 C3 ,3,1uF,Capacitors_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal,~
+D1 D3 ,2,LED,LEDs:LED_D3.0mm,~
+D2 ,1,1N4007,Diodes_THT:D_DO-201AD_P5.08mm_Vertical_AnodeUp,~
+J1 J2 ,2,GS2,Connectors:GS2,
+J3 ,1,Connector_Chamber,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,~
+J6 ,1,BAT1_27V,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~
+J7 ,1,BAT2_9V,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~
+J8 ,1,BAT3_27V,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~
+J9 ,1,CameraTrigger,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~
+J10 ,1,DropSignal,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~
+K1 ,1,ORWH-SH-105D1F,000,primeD-kiCad_pcbfootprints:Relay_SPST_ORWH-SH-105D1F,000,https://www.omron.com/ecb/products/pdf/en-g5q.pdf
+P1 ,1,Power,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,
+P2 ,1,Analog,Socket_Arduino_Uno:Socket_Strip_Arduino_1x06,
+P3 ,1,Digital,Socket_Arduino_Uno:Socket_Strip_Arduino_1x10,
+P4 ,1,Digital,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,
+P5 P6 P7 P8 ,4,CONN_01X01,Socket_Arduino_Uno:Arduino_1pin,
+Q1 ,1,IRLI3705N,TO_SOT_Packages_THT:TO-220-3_Horizontal,~
+Q2 ,1,NPN-2N2222,TO_SOT_Packages_THT:TO-92_Horizontal1_Inline_Narrow_Oval,http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF
+R1 R2 R5 R6 ,4,100K,Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CF14JT100K
+R3 ,1,150,Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R4 ,1,150,Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,CF14JT150R
+SW1 ,1,RED-SW_Push_SPDT,primeD-kiCad_pcbfootprints:SPDT_4.7mm,JS102011JCQN
+SW2 ,1,SW_DPDT_x2,primeD-kiCad_pcbfootprints:DPDT_Pitch7-62x6-35mm,S202031MS02Q
+
+
+
+
+BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
+Generated 2/18/2019 8:06:50 PM
