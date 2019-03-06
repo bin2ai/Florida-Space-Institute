@@ -6,8 +6,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "PRIME D"
-Date "2019-02-13"
-Rev "0"
+Date "2019-03-06"
+Rev "1"
 Comp "CMR"
 Comment1 "This schematic was created after prototype board was created. "
 Comment2 "This is only the KiCad author's interpretation of the electrical design of Prime-D. "
@@ -544,7 +544,6 @@ Text Label 1050 2700 0    50   ~ 0
 BT2_V-
 Text Label 7550 5900 0    50   ~ 0
 BT3_V+
-NoConn ~ 6900 5150
 Text Label 1050 3150 0    50   ~ 0
 BT1_V-
 Wire Wire Line
@@ -775,8 +774,6 @@ Wire Wire Line
 Wire Wire Line
 	6800 5900 6800 5750
 Wire Wire Line
-	7000 5750 7550 5750
-Wire Wire Line
 	5050 5800 3800 5800
 Text Label 7400 4050 2    60   ~ 0
 Vin
@@ -799,7 +796,7 @@ Text Notes 6500 2200 0    50   ~ 0
 1. RELAY_NO\n2. BT3_V-\n3. X\n4. X \n5. X\n6. X\n7. X\n8. SWITCH_GND\n9. BT1_V+\n10. X\n11. X\n12. X\n13. X\n14. X\n15. X
 Text Notes 5850 2200 0    50   ~ 0
 1. Solenoid+\n2. Solenoid-\n3. X\n4. X \n5. X\n6. X\n7. X\n8. LEDStrip_V-\n9. LEDStrip_V+\n10. X\n11. X\n12. X\n13. X\n14. X\n15. X
-Text Label 7550 5750 0    50   ~ 0
+Text Label 7550 5150 0    50   ~ 0
 SOLENOID+
 Text Label 8200 5000 2    50   ~ 0
 BT3_V-
@@ -883,7 +880,7 @@ Wire Notes Line
 	4450 6300 7500 6300
 Wire Notes Line
 	4450 4950 7500 4950
-Text Label 7100 5750 0    50   ~ 0
+Text Label 7000 5150 0    50   ~ 0
 relay_NO
 Text Label 7100 5900 0    50   ~ 0
 relay_COM
@@ -997,4 +994,11 @@ Wire Notes Line
 	3050 750  3050 2200
 NoConn ~ 10250 1150
 NoConn ~ 10250 1250
+Wire Wire Line
+	6900 5150 7550 5150
+NoConn ~ 7000 5750
+Text Notes 4600 4900 0    50   ~ 0
+R1-fixed pinout. switch 2 & 3. \nNow need to change symbol/footprint to reflect true numbering scheme.
+Text Notes 4650 4700 0    50   ~ 10
+NEW - R1
 $EndSCHEMATC
