@@ -6,6 +6,10 @@ This KiCad project includes both the schematic and pcb-layout for FSI drop tower
 ## Usage
 This project requires KiCad Version 5.0 and after to use.
 
+## Software
+Again please note that this Prime-D circuit board should be treated as an Arduino Uno shield.  Build and flash the Arduion '.ino. file onto the arduino uno board that will be mounted to this Prime-D Arduino Shield. 
+<br>You can find the software in the [Arduino/Prime-D/](/KiCad%20Projects/PRIME-D/Arduino/Prime-D/Prime-D.ino) folder.</br>
+
 ## Documents Folder
 The documents folder contains;
   * [the bill of materials (BOM)](/KiCad%20Projects/PRIME-D/documents/BOM/)
@@ -14,6 +18,5 @@ The documents folder contains;
   * [pictures](/KiCad%20Projects/PRIME-D/documents/pictures/)
   * [previous revisions](/KiCad%20Projects/PRIME-D/documents/Revisions/)
   * [pdf of both the schematic and pcb layout](/KiCad%20Projects/PRIME-D/documents/schematic_n_PCBlayout/)
+  * [Arduino Code](/KiCad%20Projects/PRIME-D/Arduino/Prime-D/Prime-D.ino)
 
-## Coming Soon
-Again please note that this Prime-D circuit board should be treated as an Arduino Uno shield.  The software to program the arduino will be added to this repo soon.
